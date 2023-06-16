@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hieu</h1>
-- 🌱 I’m currently learning **AI in Hanoi university of industry**
+- 🌱 I’m currently learning AI in Hanoi university of industry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
