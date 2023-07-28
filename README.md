@@ -1,5 +1,5 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/hieudev623)
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
 ![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg)
 <h1 align="center">Hi 👋, I'm Hieu</h1>
