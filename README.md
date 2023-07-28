@@ -5,8 +5,8 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100078685723090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100078685723090" height="30" width="40" /></a>
 </p>
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg)
 ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
 <h3 align="left">Languages and Tools:</h3>
