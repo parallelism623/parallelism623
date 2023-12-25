@@ -1,6 +1,6 @@
 ![](https://leetcard.jacoblin.cool/hieudev623?ext=heatmap)![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg)
-
+![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/dark_card.svg)
 <h1 align="center">Hi 👋, I'm Hieu</h1>
 <h3 align="center">A litte boy is 18 years old as of 2021.</h3>
 
