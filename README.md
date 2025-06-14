@@ -1,5 +1,6 @@
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg" alt="light card" />
+  <br>
   <img src="https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/max_rating.svg" alt="max rating" />
   <img src="https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/rating.svg" alt="rating" />
 </div>
