@@ -5,15 +5,15 @@
 
 <!-- Light / Dark mode switching -->
 <p align="center">
-  <img src="./output/light_card.svg" alt="CF Contributions (light)" width="600"/>
-  <img src="./output/dark_card.svg"  alt="CF Contributions (dark)"  width="600"/>
+  <img src="./cf-stats/output/light_card.svg" alt="CF Contributions (light)" width="600"/>
+  <img src="./cf-stats/output/dark_card.svg"  alt="CF Contributions (dark)"  width="600"/>
 </p>
 
 ---
 
 ## 🏷️ Tag statistics
 <p align="center">
-  <img src="./output/tag_cloud.svg" alt="CF Tag Cloud" width="600"/>
+  <img src="./cf-stats/output/tag_cloud.svg" alt="CF Tag Cloud" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Hieu</h1>
