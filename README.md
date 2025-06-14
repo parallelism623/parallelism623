@@ -1,12 +1,8 @@
 ![](https://leetcard.jacoblin.cool/hieudev623?ext=heatmap)![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-## 📈 Codeforces
-
-<!-- Light / Dark mode switching -->
 <p align="center">
-  <img src="[https://github.com/parallelism623/cf-stats/tree/main/output/dark_card.svg](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/dark_card.svg)" alt="CF Contributions (light)" width="600"/>
+  <img src="[https://github.com/parallelism623/cf-stats/tree/main/output/dark_card.svg](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/dark_card.svg)" alt="CF Contributions (dark)" width="600"/>
 </p>
 
----
 
 ## 🏷️ Tag statistics
 <p align="center">
