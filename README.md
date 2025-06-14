@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/rating.svg)
 
 ## 🏷️ Tag statistics
 <p align="center">
