@@ -5,8 +5,8 @@
 
 <!-- Light / Dark mode switching -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parallelism623/cf-stats/tree/main/output/dark_card.svg" alt="CF Contributions (light)" width="600"/>
-  <img src="https://raw.githubusercontent.com/parallelism623/cf-stats/tree/main/output/dark_card.svg"  alt="CF Contributions (dark)"  width="600"/>
+  <img src="https://github.com/parallelism623/cf-stats/tree/main/output/dark_card.svg" alt="CF Contributions (light)" width="600"/>
+  <img src="[https://raw.githubusercontent.com/parallelism623/cf-stats/tree/main/output/dark_card.svg](https://github.com/parallelism623/cf-stats/tree/main/output/dark_card.svg)"  alt="CF Contributions (dark)"  width="600"/>
 </p>
 
 ---
