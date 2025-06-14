@@ -1,6 +1,9 @@
-![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/rating.svg)
+<div align="center">
+  ![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg)
+  ![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/max_rating.svg)
+  ![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/rating.svg)
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Hieu</h1>
 
