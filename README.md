@@ -1,7 +1,7 @@
 ![](https://leetcard.jacoblin.cool/hieudev623?ext=heatmap)![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg)
 ![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/dark_card.svg)
-## 📈 Codeforces Contribution
+## 📈 Codeforces
 
 <!-- Light / Dark mode switching -->
 <p align="center">
