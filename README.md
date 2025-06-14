@@ -1,4 +1,6 @@
-![](https://leetcard.jacoblin.cool/hieudev623?ext=heatmap)![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+<p align="center">
+  ![](https://leetcard.jacoblin.cool/hieudev623?ext=heatmap)![](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+<p>
 <p align="center">
   <img src="[https://github.com/parallelism623/cf-stats/tree/main/output/dark_card.svg](https://raw.githubusercontent.com/parallelism623/cf-stats/main/output/dark_card.svg)" alt="CF Contributions (dark)" width="600"/>
 </p>
