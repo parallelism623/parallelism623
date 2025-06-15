@@ -21,7 +21,7 @@
   <a href="https://leetcode.com/hieudev623/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/hi%E1%BA%BFu-tr%C6%B0%C6%A1ng-anh-7a8210257/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
