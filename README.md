@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <img
-    src="https://leetcard.jacoblin.cool/paradev623?ext=heatmap"
+    src="https://leetcard.jacoblin.cool/paradev623?ext=heatmap,contest"
     alt="LeetCode Heatmap"
     width="600"
   />
